@@ -2,6 +2,7 @@
 RISC-V 32-bit Linux Reboot Payload.
 # Legality's
 The author is not responsible for any damage caused by Sandworm, this is only for research and learning.
+If you get caught doing illegal activity with sandworm, you may be subject to arrest and fines. Don't be stupid.
 # Remendation 
 1. Security & Prevention
 Do Not Run Untrusted Binaries: Never execute Go binaries (or any code) from untrusted sources. Even if the shellcode is for a different architecture (like RISC-V), the Go code itself could contain other malicious routines (like file deletion or credential stealing) that do work on your system.
